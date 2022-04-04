@@ -1,0 +1,14 @@
+{
+  "simple-reset-css": {
+    "prefix": "simple reset css",
+    "body": [
+      "* {",
+      " border: 0;",
+      " box-sizing: 0;",
+      " margin: 0;",
+      " padding: 0;",
+      "}"
+    ],
+    "description": "Render the default reset css"
+	}
+}
