@@ -1,7 +1,5 @@
 # My custom VSCode Snippets
 
-Save time while developing
-
 VSCode Snippets are short, reusable code blocks that can be used to streamline your development work.
 
 ## How to create a new snippet?
